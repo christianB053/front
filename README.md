@@ -46,26 +46,14 @@
 ## 2. 팀원 및 역할 분담
 
 ### 2-1. 팀원 소개
+* #### Front-end
 
-### Front-end
+|권지혜|김설하|김현빈|우승미|
+|:---:|:---:|:---:|:---:|
+|<a href="https://github.com/jhfrontend"><img src="https://avatars.githubusercontent.com/u/53033847?v=4" width="140px;" alt="권지혜의 프로필 사진"/>|<a href="https://github.com/zldnlto"><img src="https://avatars.githubusercontent.com/u/95897068?v=4" width="140px;" alt="김설하의 프로필 사진"/>|<a href="https://github.com/christianB053"><img src="https://avatars.githubusercontent.com/u/83122749?v=4" width="140px;" alt="김현빈의 프로필 사진"/>|<a href="https://github.com/wSeungMi"><img src="https://avatars.githubusercontent.com/u/104605709?v=4" width="140px;" alt="우승미의 프로필 사진"/>|
+|🔗[jhfrontend](https://github.com/jhfrontend)|🔗[zldnlto](https://github.com/zldnlto)|🔗[christianB053](https://github.com/christianB053)|🔗[wSeungMi](https://github.com/wSeungMi)|
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/jhfrontend"><img src="https://avatars.githubusercontent.com/u/53033847?v=4" width="100px;" alt="권지혜의 프로필 사진"/><br /><sub><b>권지혜</b></sub></br>
-      <sub>(jhfrontend)</sub></a><br /></td>
-      <td align="center"><a href="https://github.com/zldnlto"><img src="https://avatars.githubusercontent.com/u/95897068?v=4" width="100px;" alt="김설하의 프로필 사진"/><br /><sub><b>김설하</b></sub></br>
-      <sub>(zldnlto)</sub></a><br /></td>
-      <td align="center"><a href="https://github.com/christianB053"><img src="https://avatars.githubusercontent.com/u/83122749?v=4" width="100px;" alt="김현빈의 프로필 사진"/><br /><sub><b>김현빈</b></sub></br>
-      <sub>(christianB053)</sub></a><br /></td>
-      <td align="center"><a href="https://github.com/wSeungMi"><img src="https://avatars.githubusercontent.com/u/104605709?v=4" width="100px;" alt="우승미의 프로필 사진"/><br /><sub><b>우승미</b></sub></br>
-      <sub>(wSeungMi)</sub></a><br /></td>
-     <tr/>
-    </tr>
-    <tr>
-    </tr>
-  </tbody>
-</table>
+<br>
 
 ### 2-2. 역할 분담
 
