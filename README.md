@@ -1,14 +1,83 @@
-# 커디어리
+# 커디어리(Co-diary)
+
+서비스 이미지
+
+#### [🍰 배포 링크](https://co-diary-12418.web.app/)
+
+#### 💌 서비스 이용을 위한 계정
+
+- ID: irb@<k>codiary.com</k>
+- PW: @codiary0701
+
+<br>
+
+## 목차
+
+[1. 프로젝트 소개](#1.-프로젝트-소개) <br>
+[2. 팀원 및 역할 분담](#2.-팀원-및-역할-분담) <br>
+[3. 기술 및 개발 환경](#3.-기술-및-개발-환경) <br>
+[4. 폴더 구조](#4.-폴더-구조) <br>
+[5. 프로젝트 기록](#5.-프로젝트-기록) <br>
+[6. UI 및 페이지 소개](#6.-ui-및-페이지-소개) <br>
+[7. 향후 버전 계획](#7.-향후-버전-계획) <br>
+
+<hr>
+<br>
+
+## 프로젝트 소개
 
 '맛집 기록 지도의 카페 버전'  
 맛집만 기록하나요? 우리는 식후 커피의 민족 👨‍👩‍👧‍👦 ☕️  
-커디어리와 함께 카페도 기록해보세요!
+커디어리와 함께 카페도 기록해 보세요!
 
-[🍰 배포 링크](https://co-diary-12418.web.app/)
+✏️ 음료와 디저트에 대한 정보 기록
+메뉴의 이름, 가격, 카페 주소와 직접 찍은 음료/디저트의 사진, 해시태그를 남
 
-<hr>
+📍지도를 통해 내가 다녀온 카페의 위치를 언제든지 확인할 수 있어요!
 
-## 📝 프로젝트 정보
+💌 해시태그, 검색으로 커디어리 기록을 쉽게 찾을 수 있어요!
+
+**🎯 Target** 커피와 디저트를 좋아하는 사람, 카페 다니기를 좋아하는 사람, 혹은 이와 관련한 정보를 한 군데에 모아 관리하고 싶은 사람, 기록하기를 좋아하는 사람
+
+<br>
+<br>
+
+## 2. 팀원 및 역할 분담
+
+### 2-1. 팀원 소개
+
+### Front-end
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/jhfrontend"><img src="https://avatars.githubusercontent.com/u/53033847?v=4" width="100px;" alt="권지혜의 프로필 사진"/><br /><sub><b>권지혜</b></sub></br>
+      <sub>(jhfrontend)</sub></a><br /></td>
+      <td align="center"><a href="https://github.com/zldnlto"><img src="https://avatars.githubusercontent.com/u/95897068?v=4" width="100px;" alt="김설하의 프로필 사진"/><br /><sub><b>김설하</b></sub></br>
+      <sub>(zldnlto)</sub></a><br /></td>
+      <td align="center"><a href="https://github.com/christianB053"><img src="https://avatars.githubusercontent.com/u/83122749?v=4" width="100px;" alt="김현빈의 프로필 사진"/><br /><sub><b>김현빈</b></sub></br>
+      <sub>(christianB053)</sub></a><br /></td>
+      <td align="center"><a href="https://github.com/wSeungMi"><img src="https://avatars.githubusercontent.com/u/104605709?v=4" width="100px;" alt="우승미의 프로필 사진"/><br /><sub><b>우승미</b></sub></br>
+      <sub>(wSeungMi)</sub></a><br /></td>
+     <tr/>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+
+### 2-2. 역할 분담
+
+[🔗 프로젝트 담당 시트](https://docs.google.com/spreadsheets/u/2/d/1ep7eGOuronfPCPo2jVCXCrKruFgkimMMe9l5KG3auIw/edit?usp=sharing)
+
+역할 분담 이미지
+
+<br>
+<br>
+
+## 3. 기술 및 개발 환경
+
+### 3-1. 프로젝트 정보
 
 <table>
   <tr>
@@ -38,35 +107,9 @@
 
 </table>
 
-**🎯 Target** 커피와 디저트를 좋아하는 사람, 카페 다니기를 좋아하는 사람, 혹은 이와 관련한 정보를 한 군데에 모아 관리하고 싶은 사람, 기록하기를 좋아하는 사람
+<br>
 
-## 팀 소개
-
-### Front-end
-
-**일리뿌** (이렇게 리액트까지 뿌수자!)
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/jhfrontend"><img src="https://avatars.githubusercontent.com/u/53033847?v=4" width="100px;" alt="권지혜의 프로필 사진"/><br /><sub><b>권지혜</b></sub></br>
-      <sub>(jhfrontend)</sub></a><br /></td>
-      <td align="center"><a href="https://github.com/zldnlto"><img src="https://avatars.githubusercontent.com/u/95897068?v=4" width="100px;" alt="김설하의 프로필 사진"/><br /><sub><b>김설하</b></sub></br>
-      <sub>(zldnlto)</sub></a><br /></td>
-      <td align="center"><a href="https://github.com/christianB053"><img src="https://avatars.githubusercontent.com/u/83122749?v=4" width="100px;" alt="김현빈의 프로필 사진"/><br /><sub><b>김현빈</b></sub></br>
-      <sub>(christianB053)</sub></a><br /></td>
-      <td align="center"><a href="https://github.com/wSeungMi"><img src="https://avatars.githubusercontent.com/u/104605709?v=4" width="100px;" alt="우승미의 프로필 사진"/><br /><sub><b>우승미</b></sub></br>
-      <sub>(wSeungMi)</sub></a><br /></td>
-     <tr/>
-    </tr>
-    <tr>
-    </tr>
-  </tbody>
-</table>
-
-[🔗 프로젝트 담당 시트](https://docs.google.com/spreadsheets/u/2/d/1ep7eGOuronfPCPo2jVCXCrKruFgkimMMe9l5KG3auIw/edit?usp=sharing)
-
-## 시작 가이드
+### 3-2. 시작 가이드
 
 ```shell
 git clone https://github.com/co-diary/front.git
@@ -74,9 +117,11 @@ npm install
 npm start
 ```
 
-## 기술 스택
+<br>
 
-### Frontend
+### 3-3. 기술 스택
+
+#### Frontend
 
 <!-- https://img.shields.io/badge/{보여질이름}-{배경컬러}?style=for-the-badge&logo={로고이름}&logoColor={로고컬러} -->
 
@@ -85,31 +130,36 @@ npm start
 <img src="https://img.shields.io/badge/styled_components-444444?style=for-the-badge&logo=styledcomponents"/>
 <img src="https://img.shields.io/badge/react_query-444444?style=for-the-badge&logo=reactquery"/>
 
-### BackEnd
+#### BackEnd
 
 ![Firebase](https://img.shields.io/badge/Firebase-444444?style=for-the-badge&logo=firebase)
 
-### Environment
+#### Environment
 
 ![vsc](https://img.shields.io/badge/npm-444444?style=for-the-badge&logo=visualstudiocode)
 ![git](https://img.shields.io/badge/git-444444?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/github-444444?style=for-the-badge&logo=github)
 
-### Config
+#### Config
 
 ![npm](https://img.shields.io/badge/npm-444444?style=for-the-badge&logo=npm)
 
-### Communication
+#### Communication
 
 ![notion](https://img.shields.io/badge/notion-444444?style=for-the-badge&logo=notion)
 ![discord](https://img.shields.io/badge/discord-444444?style=for-the-badge&logo=discord)
 
-### 그 외 협업 전략 - GitFlow 🌊
+<br>
+
+### 3-4. 그 외 협업 전략 - GitFlow 🌊
 
 Git branch 전략은 최대한 혼선이 없도록 팀원들이 공통적으로 경험이 있는 GitFlow를 채택하게 되었습니다.  
 main / develop / feature 세 단계의 브랜치를 구성하여 배포와 개발 기능을 분리하여 활용하였습니다.
 
-## 폴더 구조
+<br>
+<br>
+
+## 4. 폴더 구조
 
 ```shell
 ☕️ co-diary / frontend
@@ -131,38 +181,49 @@ main / develop / feature 세 단계의 브랜치를 구성하여 배포와 개�
 └── 📜README.md
 ```
 
-## 프로젝트 기록
+<br>
+<br>
+
+## 5. 프로젝트 기록
 
 > 맨 땅에 헤딩하듯🥹 기획부터 진행된 커디어리 프로젝트는 아래와 같은 과정으로 만들어졌습니다.  
 > **기술 스택 결정 ➡️ 컨셉 회의 ➡️ Firebase 컬렉션 DB 구조 설계 ➡️ 프로젝트 구조도, 플로우차트 작성 ➡️ 스토리보드 작성 및 디자인 Figma 제작 ➡️ 개발 착수**
 
-### 컨셉 회의
+### 5-1. 컨셉 회의
 
 <img width="1183" alt="기획 회의 스크린샷 첫번째" src="https://github.com/co-diary/front/assets/95897068/0b9c097c-1a7e-4f56-be1b-ef2f2c646dc0">
 <img width="1405" alt="기획 회의 스크린샷 두번째" src="https://github.com/co-diary/front/assets/95897068/8929d945-5c3f-4784-b968-c078683d8555">
 
-<span style="background-color: #ffdce0">아이디어 결정 방식</span>
+✔️ <span style="background-color: #ffdce0">아이디어 결정 방식</span>
 
 - '커피, 디저트 기록'이라는 주제를 가지고 각자 구상한 컨셉 아이디어를 회의를 통해 방향성을 맞춰갔습니다. 의사 결정은 각 의견 중 공통된 부분을 확정으로 Fix한 뒤 각자의 아이디어 중 '좋은 아이디어다' 싶은 부분을 선별하여 추가하였습니다.
 
 - 주요 기능을 구상할 때 앱의 완성도를 위해 '현재 수준으로 기능 구현이 가능한가'에 1순위로 초점을 맞추었고, 아이디어로 나왔던 기능은 후순위로 배치하여 기본 기능 구현에 더욱 초점을 맞추었습니다.
 
-### 페이지 구조도
+<br>
+
+### 5-2. 페이지 구조도
 
 <img src="https://github.com/co-diary/front/assets/95897068/9e7c003f-aaa0-4379-899b-e2462450b448" alt="커디어리 페이지 구조도"/>
 
-### 플로우 차트
+<br>
+
+### 5-3. 플로우 차트
 
 <img src="https://github.com/co-diary/front/assets/95897068/37300500-02e5-46b2-b8dc-284c95050762" alt="커디어리 플로우차트"/>
 
-### 스토리보드 작성 및 디자인(Figma)
+<br>
+
+### 5-4. 스토리보드 작성 및 디자인(Figma)
 
 <img width="713" alt="스크린샷 2023-07-15 20 30 55" src="https://github.com/co-diary/front/assets/95897068/4a4d71a5-f28f-4eb5-92cb-ef08eaefcd9d">
 
 - 페이지별로 `CO-P`와 같은 화면 ID를 명명하여 git issue, figma에 일괄적으로 사용
 - 기능 명세를 통한 표준화와 작업 효율 추구
 
-## 개발 일지
+<br>
+
+### 5-5. 개발 일지
 
 <img width="672" alt="스크린샷 2023-07-15 20 46 19" src="https://github.com/co-diary/front/assets/95897068/5ea7b2ed-d026-42ff-82ed-e00d398e40f1">
 
@@ -170,8 +231,22 @@ main / develop / feature 세 단계의 브랜치를 구성하여 배포와 개�
 
 [🔗기술문서 보러가기](https://burly-haddock-d58.notion.site/32ed0691f33f4c8fb95394b739c091af?pvs=4)
 
-## 그 외 정보
+<br>
+<br>
+
+## UI 및 페이지 소개
+
+<br>
+<br>
+
+## 7. 그 외 정보
 
 ### 폰트
 
 **LINESeedKR** (https://seed.line.me/index_kr.html)
+
+<br>
+<br>
+
+## 8. 향후 버전 계획
+
