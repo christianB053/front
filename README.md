@@ -234,7 +234,7 @@ main / develop / feature 세 단계의 브랜치를 구성하여 배포와 개�
 <br>
 <br>
 
-## UI 및 페이지 소개
+## 6. UI 및 페이지 소개
 
 <br>
 <br>
