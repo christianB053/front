@@ -27,6 +27,38 @@
 
 ## 1. 프로젝트 소개
 
+### 1-1. 프로젝트 정보
+
+<table>
+  <tr>
+    <td>프로젝트명</td>
+    <td>커디어리(co-diary)</td>
+  </tr>
+  <tr>
+    <td>개요</td>
+    <td>커피, 디저트 전용 취향 기록 웹 앱</td>
+  </tr>
+  <tr>
+    <td>기획/디자인 기간</td>
+    <td>23.01 - 23.02</td>
+  </tr>
+  <tr>
+    <td>개발 + QA 기간</td>
+    <td>23.03 - 23.07</td>
+  </tr>
+  <tr>
+    <td>기획</td>
+    <td><a href="https://docs.google.com/presentation/d/1TGsukOJkn-cpmYRNX1LC4-S6vjKCWiMn0OyPJGUzlC0/edit#slide=id.p">스토리보드</a></td>
+  </tr>
+  <tr>
+    <td>디자인</td>
+    <td><a href="https://www.figma.com/file/wK8ezWvM0NNUdjU4g1pMcP/co-diary?node-id=71%3A520&t=AaoZX8DFiyuRySmh-1">Figma</a></td>
+  </tr>
+
+</table>
+
+<br>
+
 '맛집 기록 지도의 카페 버전'  
 맛집만 기록하나요? 우리는 식후 커피의 민족 👨‍👩‍👧‍👦 ☕️  
 커디어리와 함께 카페도 기록해 보세요!
@@ -92,39 +124,7 @@
 
 ## 3. 기술 및 개발 환경
 
-### 3-1. 프로젝트 정보
-
-<table>
-  <tr>
-    <td>프로젝트명</td>
-    <td>커디어리(co-diary)</td>
-  </tr>
-  <tr>
-    <td>개요</td>
-    <td>커피, 디저트 전용 취향 기록 웹 앱</td>
-  </tr>
-  <tr>
-    <td>기획/디자인 기간</td>
-    <td>23.01 - 23.02</td>
-  </tr>
-  <tr>
-    <td>개발 + QA 기간</td>
-    <td>23.03 - 23.07</td>
-  </tr>
-  <tr>
-    <td>기획</td>
-    <td><a href="https://docs.google.com/presentation/d/1TGsukOJkn-cpmYRNX1LC4-S6vjKCWiMn0OyPJGUzlC0/edit#slide=id.p">스토리보드</a></td>
-  </tr>
-  <tr>
-    <td>디자인</td>
-    <td><a href="https://www.figma.com/file/wK8ezWvM0NNUdjU4g1pMcP/co-diary?node-id=71%3A520&t=AaoZX8DFiyuRySmh-1">Figma</a></td>
-  </tr>
-
-</table>
-
-<br>
-
-### 3-2. 시작 가이드
+### 3-1. 시작 가이드
 
 ```shell
 git clone https://github.com/co-diary/front.git
@@ -134,7 +134,7 @@ npm start
 
 <br>
 
-### 3-3. 기술 스택
+### 3-2. 기술 스택
 
 #### Frontend
 
@@ -166,7 +166,7 @@ npm start
 
 <br>
 
-### 3-4. 그 외 협업 전략 - GitFlow 🌊
+### 3-3. 그 외 협업 전략 - GitFlow 🌊
 
 Git branch 전략은 최대한 혼선이 없도록 팀원들이 공통적으로 경험이 있는 GitFlow를 채택하게 되었습니다.  
 main / develop / feature 세 단계의 브랜치를 구성하여 배포와 개발 기능을 분리하여 활용하였습니다.
