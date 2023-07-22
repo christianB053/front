@@ -59,7 +59,7 @@
 
 [🔗 프로젝트 담당 시트](https://docs.google.com/spreadsheets/u/2/d/1ep7eGOuronfPCPo2jVCXCrKruFgkimMMe9l5KG3auIw/edit?usp=sharing)
 
-<img width="2712" alt="Frame 1" src="https://github.com/co-diary/front/assets/83122749/24c4810e-f4fa-4385-969c-1fb9535e5218">
+<img width="2491" alt="Frame 1 (1)" src="https://github.com/co-diary/front/assets/83122749/2d032255-3d56-428d-b9f3-bae065f002b5">
 
 <br>
 <br>
