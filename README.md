@@ -226,23 +226,23 @@ main / develop / feature 세 단계의 브랜치를 구성하여 배포와 개�
 ## 6. UI 및 페이지 소개
 | 스플래시 | 회원가입| 로그인 | 
 |---|---|---|
-|![스플래시](https://user-images.githubusercontent.com/102042383/210394343-e78fa09a-fafd-4ea3-8f88-60ede19e5664.gif)|![회원가입](https://user-images.githubusercontent.com/102042383/210399031-6104ea3e-95f9-47bd-a477-3e7263c71115.gif)|![로그인](https://user-images.githubusercontent.com/102042383/210374690-cef0e54e-af15-4ac1-9ab3-8b7f5db351a3.gif)|
+|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|
 
 | 홈 페이지 | 태그 모아보기 페이지 | 검색 페이지 |
 |---|---|---|
-|![홈페이지](https://user-images.githubusercontent.com/102042383/210402297-1f1e0da9-2463-4764-bb90-eda2d46a6128.gif)|![태그모아보기페이지](https://user-images.githubusercontent.com/102042383/210383785-c5e13d95-9923-4b70-993d-8e4116a5c50e.gif)|![검색페이지](https://user-images.githubusercontent.com/102042383/210402198-5683068a-c18b-412f-afa9-1d3c6e804e78.gif)|
+|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|
 
 | 기록하기 페이지 | 게시글 리스트 페이지 | 게시글 상세 페이지 |
 |---|---|---|
-|![기록하기페이지](https://user-images.githubusercontent.com/102042383/210389286-3a68daea-af30-467c-9747-3c0bbd506d89.gif)|![게시글리스트페이지](https://user-images.githubusercontent.com/102042383/210397886-b565fe76-3542-4f30-bf78-0a0e46ccd8b6.gif)|![게시글상세페이지](https://user-images.githubusercontent.com/102042383/210383737-4a1eed33-4ced-40e1-a195-e108e41d258f.gif)|
+|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|
 
 | 게시글 수정 페이지 | 지도 페이지 | 좋아요 페이지 |
 |---|---|---|
-|![게시글수정페이지](https://user-images.githubusercontent.com/102042383/210380945-d466077c-a371-4f9e-98cb-87b1982b4c4a.gif)|![지도페이지](https://user-images.githubusercontent.com/102042383/210404979-7640fa0b-08a7-4d9d-b02a-92509a2593b3.gif)|![좋아요페이지](https://user-images.githubusercontent.com/102042383/210378198-a88a8602-3d56-4b19-b52b-c13b02bd506b.gif)|
+|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|
 
 | 마이 페이지 | 내 정보 수정 페이지 | 에러 페이지 |
 |---|---|---|
-|![마이페이지](https://user-images.githubusercontent.com/102042383/210388739-e1b14107-3bbe-459c-86cd-6e7fb6603039.gif)|![내정보수정페이지](https://user-images.githubusercontent.com/102042383/210389152-11703f74-4294-479a-a425-be39e11d6d60.gif)|![에러페이지](https://user-images.githubusercontent.com/102042383/210379752-a4de877b-9e1d-4c61-8a3c-fdbb7b7fd234.gif)|
+|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|![회원가입](https://github.com/co-diary/front/assets/83122749/ac1260e8-a724-4a6f-9bfe-fe78bb85cb61)|
 
 <br>
 <br>
