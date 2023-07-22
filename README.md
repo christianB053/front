@@ -50,7 +50,7 @@
 
 |권지혜|김설하|김현빈|우승미|
 |:---:|:---:|:---:|:---:|
-|<a href="https://github.com/jhfrontend"><img src="https://avatars.githubusercontent.com/u/53033847?v=4" width="140px;" alt="권지혜의 프로필 사진"/>|<a href="https://github.com/zldnlto"><img src="https://avatars.githubusercontent.com/u/95897068?v=4" width="140px;" alt="김설하의 프로필 사진"/>|<a href="https://github.com/christianB053"><img src="https://avatars.githubusercontent.com/u/83122749?v=4" width="140px;" alt="김현빈의 프로필 사진"/>|<a href="https://github.com/wSeungMi"><img src="https://avatars.githubusercontent.com/u/104605709?v=4" width="140px;" alt="우승미의 프로필 사진"/>|
+|<a href="https://github.com/jhfrontend"><img src="https://avatars.githubusercontent.com/u/53033847?v=4" width="180px;" alt="권지혜의 프로필 사진"/>|<a href="https://github.com/zldnlto"><img src="https://avatars.githubusercontent.com/u/95897068?v=4" width="180px;" alt="김설하의 프로필 사진"/>|<a href="https://github.com/christianB053"><img src="https://avatars.githubusercontent.com/u/83122749?v=4" width="180px;" alt="김현빈의 프로필 사진"/>|<a href="https://github.com/wSeungMi"><img src="https://avatars.githubusercontent.com/u/104605709?v=4" width="180px;" alt="우승미의 프로필 사진"/>|
 |🔗[jhfrontend](https://github.com/jhfrontend)|🔗[zldnlto](https://github.com/zldnlto)|🔗[christianB053](https://github.com/christianB053)|🔗[wSeungMi](https://github.com/wSeungMi)|
 
 <br>
@@ -181,7 +181,7 @@ main / develop / feature 세 단계의 브랜치를 구성하여 배포와 개�
 ### 5-1. 컨셉 회의
 
 <img width="1183" alt="기획 회의 스크린샷 첫번째" src="https://github.com/co-diary/front/assets/95897068/0b9c097c-1a7e-4f56-be1b-ef2f2c646dc0">
-<img width="1405" alt="기획 회의 스크린샷 두번째" src="https://github.com/co-diary/front/assets/95897068/8929d945-5c3f-4784-b968-c078683d8555">
+<img width="1805" alt="기획 회의 스크린샷 두번째" src="https://github.com/co-diary/front/assets/95897068/8929d945-5c3f-4784-b968-c078683d8555">
 
 ✔️ <span style="background-color: #ffdce0">아이디어 결정 방식</span>
 
