@@ -59,7 +59,7 @@
 
 [🔗 프로젝트 담당 시트](https://docs.google.com/spreadsheets/u/2/d/1ep7eGOuronfPCPo2jVCXCrKruFgkimMMe9l5KG3auIw/edit?usp=sharing)
 
-역할 분담 이미지
+<img width="2712" alt="Frame 1" src="https://github.com/co-diary/front/assets/83122749/24c4810e-f4fa-4385-969c-1fb9535e5218">
 
 <br>
 <br>
